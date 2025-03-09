@@ -1,4 +1,5 @@
-![Uploading YoutubeSafetyIndex.png…]()
+
+![YoutubeSafetyIndex](https://github.com/user-attachments/assets/9396c3e4-c4e2-407b-9d71-1bff7e4321b9)
 
 # YouTube Safety Index: A Retrieval and Classification System
 
