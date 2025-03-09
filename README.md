@@ -1,3 +1,4 @@
+![Uploading YoutubeSafetyIndex.png…]()
 
 # YouTube Safety Index: A Retrieval and Classification System
 
